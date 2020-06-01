@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author YEISON
  */
-public class ArchivoDeTexto {
+public class Cliente {
 
     /**
      * @param args the command line arguments
